@@ -1,11 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
-<img src="./profile.jpg"
-     width="150"
-     height="150"
-     style="border-radius:50%; object-fit:cover;"
-     alt="Ashish Anand"/>
+<img src="./profile.jpg" width="150" height="150" alt="Ashish Anand"/>
 
 # 👋 Hi, I'm Ashish Anand
 
