@@ -5,27 +5,6 @@
 # 👋 Hi, I'm Ashish Anand
 
 ### 💻 Aspiring Java Backend Developer
-
-<p>
-  <b>Java</b> • <b>Spring Boot</b> • <b>REST APIs</b> • <b>MySQL</b> • <b>DSA</b>
-</p>
-
-<p>
-  Building clean, scalable and maintainable backend systems 🚀
-</p>
-
-<br>
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -49,10 +28,6 @@ I'm passionate about:
 - 🔐 Backend security
 - 📚 Continuous learning
 
-Currently, I'm sharpening my **DSA and backend development skills**
-through problem solving and real-world development challenges.
-
----
 
 <!-- ===================== EDUCATION ===================== -->
 
@@ -131,28 +106,6 @@ through problem solving and real-world development challenges.
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Projects
-
-### 📚 Student Result Management System
-
-**Spring Boot • Spring Security • JWT • MySQL • Apache POI • Postman**
-
-Role-based backend system for managing student results with
-authentication, REST APIs and database integration.
-
----
-
-### 🚗 Car Rental System
-
-**Spring Boot • Spring Data JPA • Hibernate • MySQL • Postman**
-
-Backend system providing REST APIs for car inventory,
-customer management and booking workflows.
-
----
-
 <!-- ===================== DSA ===================== -->
 
 ## 🧩 Problem Solving & DSA
@@ -168,12 +121,8 @@ problem-solving and logical thinking.
 
 </div>
 
-### DSA Focus
 
-`Arrays` • `Strings` • `Recursion` • `Linked List` • `Stack`
-• `Queue` • `Trees` • `Searching` • `Sorting`
 
----
 
 <!-- ===================== SOFT SKILLS ===================== -->
 
@@ -197,31 +146,7 @@ problem-solving and logical thinking.
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -229,7 +154,7 @@ problem-solving and logical thinking.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/ashish-anand-5b90a532a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -237,7 +162,7 @@ problem-solving and logical thinking.
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/ashishanand8990">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
