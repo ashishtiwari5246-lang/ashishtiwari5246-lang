@@ -28,6 +28,10 @@ I'm passionate about:
 - 🔐 Backend security
 - 📚 Continuous learning
 
+currently, I am focused on strengthening my backend development skills,
+improving my DSA problem-solving abilities, and learning through 
+hands-on development
+
 
 <!-- ===================== EDUCATION ===================== -->
 
@@ -150,23 +154,19 @@ problem-solving and logical thinking.
 
 <!-- ===================== CONNECT ===================== -->
 
-## 📫 Let's Connect
+## 🔗 Let's Connect
 
-<div align="center">
-
-<a href="https://linkedin.com/in/ashish-anand-5b90a532a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ashishtiwari5246@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/ashishanand8990">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:ashishtiwari5246@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
