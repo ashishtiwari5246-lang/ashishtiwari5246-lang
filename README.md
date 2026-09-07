@@ -7,7 +7,7 @@
 ### 💻 Aspiring Java Backend Developer
 </div>
 
----
+--- 
 
 <!-- ===================== ABOUT ===================== -->
 
