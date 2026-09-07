@@ -160,7 +160,7 @@ problem-solving and logical thinking.
   <a href="www.linkedin.com/in/ashish-anand-5b90a532a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/in/ashishanand8990">
+  <a href="https://leetcode.com/u/ashishanand8990">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:ashishtiwari5246@gmail.com">
