@@ -1,6 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
+<img src="./profile.jpg" width="180" alt="Ashish Anand"/>
 
 # 👋 Hi, I'm Ashish Anand
 
